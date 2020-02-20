@@ -11,10 +11,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="ObjectExtensions.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="..\icon.png">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
