@@ -6,7 +6,7 @@
     <Company>Anderson Rocha</Company>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageIcon>icon.png</PackageIcon>
+    <PackageIcon></PackageIcon>
     <PackageIconUrl />
     <Version>1.0.1</Version>
   </PropertyGroup>
