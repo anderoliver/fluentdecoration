@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -8,8 +8,14 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon></PackageIcon>
     <PackageIconUrl />
-    <Version>1.0.2.1</Version>
+    <Version>1.0.2.2</Version>
     <Description>Increase the readability of your code with this simple library.</Description>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <DocumentationFile>D:\Repositorios\FluentDecoration\FluentDecoration\FluentDecoration.xml</DocumentationFile>
+    <PackageReleaseNotes>This version was completely documented. All descriptions about the API methods can be finding into Intellisense.</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>
