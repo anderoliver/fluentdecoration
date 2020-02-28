@@ -8,7 +8,7 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon></PackageIcon>
     <PackageIconUrl />
-    <Version>1.0.2</Version>
+    <Version>1.0.2.1</Version>
     <Description>Increase the readability of your code with this simple library.</Description>
   </PropertyGroup>
 
